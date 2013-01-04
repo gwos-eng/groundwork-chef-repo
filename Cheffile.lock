@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/Maikol/groundwork
+  ref: master
+  sha: a4e60a343bd2ec5bd8d4662fad05a193e297132d
+  specs:
+    groundwork (0.1.0)
+
+DEPENDENCIES
+  groundwork (>= 0)
+
